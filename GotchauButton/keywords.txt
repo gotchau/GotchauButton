@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For GotchauButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	            KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update              KEYWORD2
+setAutoUpdate       KEYWORD2
+is                  KEYWORD2
+getClicks           KEYWORD2
+setDebounceTime     KEYWORD2
+setHoldTime         KEYWORD2
+setClampTimeout     KEYWORD2
+setClickTimeout     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+Pressed             LITERAL1
+Released            LITERAL1
+HasClicks           LITERAL1
+Holded              LITERAL1
+WasHolded           LITERAL1
+Clamped             LITERAL1
+StateEnumLenght     LITERAL1
+
+VCC                 LITERAL1
+GND                 LITERAL1
+
+NormalOpen          LITERAL1
+NormalClosed        LITERAL1
