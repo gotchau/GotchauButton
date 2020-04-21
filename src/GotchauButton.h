@@ -1,5 +1,6 @@
+#ifndef GOTCHAUBUTTON_H
+#define GOTCHAUBUTTON_H
 #include <Arduino.h>
-
 
 enum StateEnum
 {
@@ -60,3 +61,5 @@ public:
     void setClampTimeout(uint16_t);
     void setClickTimeout(uint16_t);
 };
+
+#endif
